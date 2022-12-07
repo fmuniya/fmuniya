@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fmuniya
 - 👀 I’m interested in Fullstack Developememt
-- 🌱 I’m currently learning Mongodb
+- 🌱 I’m currently learning JavaScript, React and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - fmuniya@gmail.com
 
